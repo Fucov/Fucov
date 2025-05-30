@@ -1,5 +1,14 @@
 ## Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/Fucov?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={Fucov}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={Fucov}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={Fucov}&theme=github-compact&hide_border=true&area=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={Fucov}&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
+<img align="center" src="https://skillicons.dev/icons?i={docker,js,html,css,django,python,go,java,cpp,c}&theme=light" />
+
 <!--
 **Fucov/Fucov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
